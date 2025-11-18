@@ -1,0 +1,1 @@
+{"version":3,"file":"apiController.d.ts","sourceRoot":"","sources":["../../src/controllers/apiController.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,OAAO,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAC;AAI1D,qBAAa,aAAa;WACX,UAAU,CACrB,GAAG,EAAE,OAAO,EACZ,GAAG,EAAE,QAAQ,EACb,IAAI,EAAE,YAAY,GACjB,OAAO,CAAC,IAAI,CAAC;CAoCjB"}
