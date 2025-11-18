@@ -1,4 +1,4 @@
 [build]
-builder = "NIXPACKS"
-buildCommand = "cd backend && npm run build"
-startCommand = "cd backend && npm start"
+root = "backend"
+buildCommand = "npm run build"
+startCommand = "node dist/server.js"
